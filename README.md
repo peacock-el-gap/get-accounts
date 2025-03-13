@@ -57,3 +57,6 @@ This approach **only verifies** whether a specific NIP/account pair is valid (i.
 
 ⚠️ **It does not provide account numbers for a given NIP. It only allows verification.**
 
+
+## Excel only 😊
+Check `input_data_with_power_query.xlsx` file. It implements - using Power Query - thesame logic as `get_accounts.py`.
